@@ -1,0 +1,22 @@
+/*style.css*/
+.delete {
+    margin-left: 10px;
+}
+
+.filter-buttons {
+    margin-bottom: 10px;
+  }
+  
+.filter-buttons button {
+    margin-right: 5px;
+}
+  
+#todo-list {
+    margin-bottom: 20px;
+}
+  
+.row {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+}
